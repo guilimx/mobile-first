@@ -1,0 +1,3 @@
+# mobile-first
+witch HTML and CSS
+ > A tag meta charset=”UTF 8”, é uma tag que ela informa a codificação de caracteres na minha página.
